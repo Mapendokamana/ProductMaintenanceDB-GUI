@@ -1,0 +1,14 @@
+C:\Users\922848\source\repos\ProductMaintenanceDB GUI\frmAddModifyProduct\bin\Debug\net6.0\TechSupportData.deps.json
+C:\Users\922848\source\repos\ProductMaintenanceDB GUI\frmAddModifyProduct\bin\Debug\net6.0\TechSupportData.runtimeconfig.json
+C:\Users\922848\source\repos\ProductMaintenanceDB GUI\frmAddModifyProduct\bin\Debug\net6.0\TechSupportData.dll
+C:\Users\922848\source\repos\ProductMaintenanceDB GUI\frmAddModifyProduct\bin\Debug\net6.0\TechSupportData.pdb
+C:\Users\922848\source\repos\ProductMaintenanceDB GUI\frmAddModifyProduct\obj\Debug\net6.0\TechSupportData.csproj.AssemblyReference.cache
+C:\Users\922848\source\repos\ProductMaintenanceDB GUI\frmAddModifyProduct\obj\Debug\net6.0\TechSupportData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\922848\source\repos\ProductMaintenanceDB GUI\frmAddModifyProduct\obj\Debug\net6.0\TechSupportData.AssemblyInfoInputs.cache
+C:\Users\922848\source\repos\ProductMaintenanceDB GUI\frmAddModifyProduct\obj\Debug\net6.0\TechSupportData.AssemblyInfo.cs
+C:\Users\922848\source\repos\ProductMaintenanceDB GUI\frmAddModifyProduct\obj\Debug\net6.0\TechSupportData.csproj.CoreCompileInputs.cache
+C:\Users\922848\source\repos\ProductMaintenanceDB GUI\frmAddModifyProduct\obj\Debug\net6.0\TechSupportData.dll
+C:\Users\922848\source\repos\ProductMaintenanceDB GUI\frmAddModifyProduct\obj\Debug\net6.0\refint\TechSupportData.dll
+C:\Users\922848\source\repos\ProductMaintenanceDB GUI\frmAddModifyProduct\obj\Debug\net6.0\TechSupportData.pdb
+C:\Users\922848\source\repos\ProductMaintenanceDB GUI\frmAddModifyProduct\obj\Debug\net6.0\TechSupportData.genruntimeconfig.cache
+C:\Users\922848\source\repos\ProductMaintenanceDB GUI\frmAddModifyProduct\obj\Debug\net6.0\ref\TechSupportData.dll
